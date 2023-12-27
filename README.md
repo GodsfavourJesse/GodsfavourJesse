@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GodsfavourJesse
-- 👀 I’m a Website Designer, Programmer and a Ghost writer
+- 👀 I’m a Website Designer, Programmer and a Graphic Designer
 - 💞️ I’m looking to collaborate and work with people who needs my services
 - 📫 You can reach out to me with any of the following contact info
 - ✉️ Email address- godsfavourjesse@gmail.com
