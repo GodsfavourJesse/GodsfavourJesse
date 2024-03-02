@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @GodsfavourJesse
-- 👀 I’m a Website Designer, Programmer and a Graphic Designer
+- 👀 I’m a Full-Stack Website Developer
+- 👀 I code with love using HTML, CSS and JavaScript to bring designs to life. From sleek landing pages to dynamic web applications, I thrive on turning ideas into interactive realities.
+- 👀 I am also proficient in Python Programming
 - 💞️ I’m looking to collaborate and work with people who needs my services
 - 📫 You can reach out to me with any of the following contact info
 - ✉️ Email address- godsfavourjesse@gmail.com
