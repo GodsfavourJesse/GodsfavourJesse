@@ -6,7 +6,7 @@ What I work with:
 - Modern web technologies (HTML, CSS, JavaScript, React, NextJS).
 - SaaS-style architectures and reusable components
 - UI-focused development that improves clarity and user experience.
-- Firebase/backend integrations for real-world products.
+- Firebase/ Custom backend integrations for real-world products.
 
 I’m particularly interested in collaborating with startups, SaaS founders, and product teams that build tools people actually use.
 I care about building products that can ship, scale, and evolve, not just demos.
